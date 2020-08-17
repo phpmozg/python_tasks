@@ -39,5 +39,5 @@ while run:
             print('Выход...')
             run = False
         else:
-            number = int(input('Введите значение: '))
+            num = int(input('Введите значение: '))
             print(convert(men, num))
